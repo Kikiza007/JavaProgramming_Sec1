@@ -1,0 +1,5 @@
+Student_id : 2313110781
+Student Name: Vasu Chitthanawat
+Major: IT
+Level: 1 
+Faculty: Information Technology
